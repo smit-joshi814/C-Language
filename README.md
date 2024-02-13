@@ -34,7 +34,7 @@ To get started with learning C programming, follow these steps:
 Contributions to this repository are welcome! If you have knowledge or expertise in C programming and would like to contribute tutorials, examples, or improvements to the existing content, please feel free to submit a pull request.
 
 ## Contributors
-<a href="https://github.com/smit-joshi814/trending_movie_search_app/graphs/contributors">
+<a href="https://github.com/smit-joshi814/C-Language/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=smit-joshi814/C-Language&max=5" />
 </a>
 
